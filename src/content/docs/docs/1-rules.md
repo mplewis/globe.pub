@@ -21,10 +21,14 @@ us build a space together by following these rules:
 3. **Respect other people and don’t be a jerk.** If you're not sure if something
    is okay, ask yourself: "Would I say this to someone's face?" If the answer is
    no, then it's probably not okay to say it here.
-4. **Mark content as NSFW.** This is generally a safe-for-work community, so if
+4. **No political debate.** Politics are present in everyday life and travel,
+   especially when it comes to cultural boundaries and safety. Political
+   discussion as it relates to travel is allowed as long as it remains
+   respectful and on-topic.
+5. **Mark content as NSFW.** This is generally a safe-for-work community, so if
    you post something that’s not safe for work, please mark it as NSFW using the
    checkbox. This helps other users keep it out of their feed.
-5. **No spam or unsolicited promotion.** Please message the admins if you’re not
+6. **No spam or unsolicited promotion.** Please message the admins if you’re not
    sure if your post counts as spam.
 
 If you see a post that breaks the rules, use the `🚩` button to **report the

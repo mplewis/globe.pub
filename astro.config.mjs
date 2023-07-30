@@ -9,7 +9,7 @@ export default defineConfig({
       logo: { src: "./src/assets/logo.svg" },
       customCss: ["./src/style.css"],
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/mplewis/globe.pub",
       },
       sidebar: [
         {
