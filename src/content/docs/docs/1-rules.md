@@ -3,10 +3,10 @@ title: Rules
 description: The rules for the Globe.pub community.
 ---
 
-Welcome to Globe.pub! Visiting a new place can be intimidating, but it’s always
-easier when you have help from friends. My goal is to build a community where
-travelers can give helpful advice, share their unique experiences, and learn
-from each other.
+Welcome to [Globe.pub](https://globe.pub)! Visiting a new place can be
+intimidating, but it’s always easier when you have help from friends. My goal is
+to build a community where travelers can give helpful advice, share their unique
+experiences, and learn from each other.
 
 My hope is for this community to support the curious adventurers out there. Help
 us build a space together by following these rules:
